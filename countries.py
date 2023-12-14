@@ -30,3 +30,5 @@ print(Croatia.population_density)
 print(United_Kingdom.population_density)
 
 print(Lithuania.compare_population_density(Croatia))
+print(Croatia.compare_population_density(United_Kingdom))
+print(United_Kingdom.compare_population_density(Lithuania))
